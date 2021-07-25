@@ -1,0 +1,15 @@
+.MainScroll{
+    width:75%;
+    right:0;
+    background-color: #FFFFFFFF;
+    display: flex;
+    flex-direction: column;
+    height:1vh;
+}
+
+.cartoon{
+    z-index:900;
+    position:absolute;
+    bottom:0;
+    right:50px;
+}

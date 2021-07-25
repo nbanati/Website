@@ -1,0 +1,15 @@
+.SideBar{
+    width:25%;
+    right:0;
+    height: 100%;
+    background-color: #F95700FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ProfilePic
+{
+    height:40%;
+    right: 50%;
+}
