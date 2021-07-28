@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Cabin+Sketch:wght@700&display=swap');
+.nameTitle{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 9rem;
+}
+
+.normalText{
+    color: #6c757d;
+}
+
+.subHeading{
+    font-family: 'Acme', sans-serif;
+    font-size: 4rem;
+}

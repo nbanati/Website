@@ -1,14 +1,16 @@
 import React from 'react';
-import pic from '../assets/namanweb.png'; 
+import pic from '../assets/namanln.png'; 
 import SideMenu from './SideMenu';
 const SideBar=()=>{
     return(
         <div className="SideBar">
             <div className="ProfilePic">
-                <img src={pic} alt="Naman Banati" height="100%" width="100%" />
+                <img src={pic} alt="Naman Banati" height="90%" width="90%" />
             </div>
-            Naman Banati
+            <div className="sideBarContent">
+                <h1>Naman Banati</h1>
             <SideMenu></SideMenu>
+            </div>
         </div>
     );
 }
