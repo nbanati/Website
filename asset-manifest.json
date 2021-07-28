@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a537da54.chunk.css",
+    "main.js": "/static/js/main.e09dabaf.chunk.js",
+    "main.js.map": "/static/js/main.e09dabaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.861ee5d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.861ee5d5.js.map",
+    "static/js/2.33dffe5c.chunk.js": "/static/js/2.33dffe5c.chunk.js",
+    "static/js/2.33dffe5c.chunk.js.map": "/static/js/2.33dffe5c.chunk.js.map",
+    "static/js/3.ed284ef6.chunk.js": "/static/js/3.ed284ef6.chunk.js",
+    "static/js/3.ed284ef6.chunk.js.map": "/static/js/3.ed284ef6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a537da54.chunk.css.map": "/static/css/main.a537da54.chunk.css.map",
+    "static/js/2.33dffe5c.chunk.js.LICENSE.txt": "/static/js/2.33dffe5c.chunk.js.LICENSE.txt",
+    "static/media/namanln.53651f0e.png": "/static/media/namanln.53651f0e.png",
+    "static/media/snap.49992467.png": "/static/media/snap.49992467.png",
+    "static/media/snap2e.2140c4de.png": "/static/media/snap2e.2140c4de.png",
+    "static/media/snap3e.7e72e3e8.png": "/static/media/snap3e.7e72e3e8.png",
+    "static/media/snap4e.1861c8d0.png": "/static/media/snap4e.1861c8d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.861ee5d5.js",
+    "static/js/2.33dffe5c.chunk.js",
+    "static/css/main.a537da54.chunk.css",
+    "static/js/main.e09dabaf.chunk.js"
+  ]
+}
